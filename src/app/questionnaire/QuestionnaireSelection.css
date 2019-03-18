@@ -1,0 +1,9 @@
+.questionnaire__selector .questionnaire__selector__cards.ui.cards {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ui.menu .item.questionnaire__selector__title {
+  width: 100%;
+  margin: 0;
+}
