@@ -1,8 +1,0 @@
-.questionnaire__back-button.ui.basic.button {
-  box-shadow: none !important;
-}
-
-.questionnaire__back-button.ui.basic.button:hover {
-  box-shadow: none !important;
-  background-color: rgba(0,0,0,.03) !important;
-}
