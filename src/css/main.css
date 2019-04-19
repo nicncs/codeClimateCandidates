@@ -1,0 +1,86 @@
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.text-wrap {
+    overflow-wrap: break-word;
+}
+
+body {
+    background-color: rgb(235, 235, 235)
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.ib {
+    display: inline-block;
+}
+
+.button {
+    min-width: 80px;
+    text-align: center;
+    padding: 5px 10px;
+    display: inline;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-container {
+    width: 200px;
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+
+.form-container {
+    background-color: rgb(129, 158, 190);
+    border-radius: 5px;
+    border: 2px solid grey;
+    padding: 0px 15px;
+}
+
+.question-container {
+    margin: 10px 0 10px 0;
+    text-align: 'left';
+    padding: 10px;
+}
+
+.err-msg {
+    color: rgb(224, 3, 3);
+    padding: 0 0 0 5px;
+}
+
+#prev-btn {
+    background-color: rgb(168, 5, 5);
+    color: rgba(255, 255, 255, 0.795);
+}
+
+#prev-btn:hover {
+    background-color: rgb(194, 8, 8);
+    color: rgb(255, 255, 255);
+}
+
+#next-btn {
+    background-color: green;
+    color: rgba(255, 255, 255, 0.795);
+}
+
+#next-btn:hover {
+    background-color: rgb(5, 138, 5);
+    color: rgb(255, 255, 255);
+}
