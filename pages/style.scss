@@ -1,0 +1,25 @@
+html, body {
+    font-size: 16px;
+}
+
+.wrapper {
+    padding: 0 20px;
+}
+
+.input__label--text {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.dropdown-input:not(.append) {
+    min-height: 3em;
+}
+
+.dropdown-input.append {
+    font-size: 1em;
+}
+
+.df--input .field-input {
+    min-height: 3em;
+    font-size: 0.95em;
+}
