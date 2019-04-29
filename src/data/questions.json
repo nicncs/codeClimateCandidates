@@ -1,0 +1,39 @@
+{
+  "title": "👨🏽‍💻搞定工作之问答提📃",
+  "questions": [
+    {
+      "id": 2504,
+      "question_type": "RadioQuestion",
+      "prompt": "What is your Favourite Food?",
+      "options": ["🧠", "🥔", "🍤"],
+      "is_required": false
+    },
+    {
+      "id": 2508,
+      "question_type": "FileQuestion",
+      "prompt": "Can You show me your handsome photo",
+      "is_required": true
+    },
+    {
+      "id": 2447,
+      "question_type": "TextQuestion",
+      "prompt": "What is your house address?",
+      "is_required": false,
+      "min_char_length": 15
+    },
+    {
+        "id": 2448,
+        "question_type": "TextQuestion",
+        "prompt": "What is favourite underwear color",
+        "is_required": true,
+        "min_char_length": 10
+    },
+    {
+        "id": 2500,
+        "question_type": "TextQuestion",
+        "prompt": "If u can ride a 🚀, where u wanna go?",
+        "is_required": true,
+        "min_char_length": 1
+    }
+  ]
+}
